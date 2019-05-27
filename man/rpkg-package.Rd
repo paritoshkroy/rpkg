@@ -4,7 +4,7 @@
 \name{rpkg-package}
 \alias{rpkg}
 \alias{rpkg-package}
-\title{rpkg: What the Package Does (One Line, Title Case)}
+\title{rpkg: My First Package in R}
 \description{
 What the package does (one paragraph).
 }
