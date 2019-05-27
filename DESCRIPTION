@@ -1,6 +1,9 @@
 Package: rpkg
 Title: My First Package in R
 Version: 0.0.0.9000
+Imports:
+     lme4,
+     sjPlot
 Authors@R: 
     person(given = "Paritosh K",
            family = "Roy",
